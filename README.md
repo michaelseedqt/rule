@@ -1,1 +1,1 @@
-# clss
+# rule
